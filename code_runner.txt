@@ -1,0 +1,1 @@
+streamlit run "c:/Users/tailw/DataWorks/Projects/Sensex Points Prediction/deployment.py"
